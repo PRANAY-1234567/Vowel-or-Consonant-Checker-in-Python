@@ -176,3 +176,6 @@ Aspiring Software Engineer | Python | Java | SQL | Data Analytics
 This project is open-source and available for educational and learning purposes.
 
 <img width="530" height="718" alt="image" src="https://github.com/user-attachments/assets/0985b31e-33e5-4869-bbd4-1fedb357a9fd" />
+
+<img width="514" height="699" alt="image" src="https://github.com/user-attachments/assets/adb2a206-a899-4ca2-ba87-a0e25a0fa7d0" />
+
