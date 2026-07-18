@@ -179,3 +179,4 @@ This project is open-source and available for educational and learning purposes.
 
 <img width="514" height="699" alt="image" src="https://github.com/user-attachments/assets/adb2a206-a899-4ca2-ba87-a0e25a0fa7d0" />
 
+<img width="610" height="707" alt="image" src="https://github.com/user-attachments/assets/8fef8de0-0ad0-42ad-81f7-ce074bceb84b" />
