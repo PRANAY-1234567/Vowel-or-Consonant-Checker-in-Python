@@ -10,3 +10,4 @@ if len(ch) == 1 and ch.isalpha():
             print("Consonant")
 else:
     print("Error")
+
